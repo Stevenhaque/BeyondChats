@@ -42,3 +42,7 @@ Built with the latest TypeScript and Tailwind CSS, Intercom's AI-enhanced Admin 
 ## <a name="snippets">🕸️Assets & Code</a>
 
 The repository includes all the assets and code.
+
+## <a name="live">🚀Live Project</a>
+
+Project URL - https://cosmic-fairy-199d02.netlify.app/
