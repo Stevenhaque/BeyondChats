@@ -23,7 +23,7 @@
 
 ## <a name="introduction">🤖Introduction</a>
 
-Built with the latest ReactJS TypeScript and Tailwind CSS, Intercom's AI-enhanced Admin Panel is a fully responsive and modern replication of Intercom’s industry-leading chatbot and customer support interface. Built as part of an internship assignment, this project closely mirrors the core UI and functionality presented in the demo, including real-time chat interactions, AI-generated message suggestions, conversation history management, and an intuitive admin dashboard. The interface is designed with a focus on clean design, usability, and seamless user experience—leveraging modern technologies to emulate the workflow of a customer support representative managing live conversations.
+Built with the latest ReactJS, TypeScript and Tailwind CSS Intercom's AI-enhanced Admin Panel is a fully responsive and modern replication of Intercom’s industry-leading chatbot and customer support interface. Built as part of an internship assignment, this project closely mirrors the core UI and functionality presented in the demo, including real-time chat interactions, AI-generated message suggestions, conversation history management, and an intuitive admin dashboard. The interface is designed with a focus on clean design, usability, and seamless user experience—leveraging modern technologies to emulate the workflow of a customer support representative managing live conversations.
 
 ## <a name="tech-stack">⚙️Tech Stack</a>
 
